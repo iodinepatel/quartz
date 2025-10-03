@@ -1,29 +1,24 @@
+- Individual
+	- [[Inbox]]
+	- [[Atomic]]
+	- [[Writing]]
+	- [[Project]]
 
-> [!todo] Status
-> -  [[Inbox]]
-> - [[Active]]
-
-> [!info] Notes
-> - [[Atomic]]
-> - [[Writing]]
-> - [[Project]]
-> 
 
 ---
+- References
 
-
-> [!abstract] References
-> - [[Articles]]
-> - [[Books]]
-> - [[Courses]]
-> - [[Essays]]
-> - [[Excerpt]]
-> - [[Papers]]
-> - [[People]]
-> - [[Podcasts]]
-> - [[Poems]]
-> - [[Textbooks]]
-> - [[Websites]]
+	- [[Articles]]
+	- [[Books]]
+	- [[Courses]]
+	- [[Essays]]
+	- [[Excerpt]]
+	- [[Papers]]
+	- [[People]]
+	- [[Podcasts]]
+	- [[Poems]]
+	- [[Textbooks]]
+	- [[Websites]]
 
 
 
