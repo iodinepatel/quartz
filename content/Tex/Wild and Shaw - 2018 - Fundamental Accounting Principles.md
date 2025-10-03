@@ -1,5 +1,5 @@
 ---
-title: Analyzing and Recording Transaction
+title: Wild and Shaw
 draft: false
 tags:
   - textbook/note
