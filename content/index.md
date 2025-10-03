@@ -1,5 +1,5 @@
 ---
-title: Iodine Patel
+title: index
 draft: true
 tags:
   - atomic
