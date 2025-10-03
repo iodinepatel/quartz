@@ -1,5 +1,5 @@
 ---
-title: Inbox
+title: Processing Zone
 draft: false
 tags:
   - dashboard
