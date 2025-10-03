@@ -1,24 +1,7 @@
-- Individual
-	- [[Inbox]]
-	- [[Atomic]]
-	- [[Writing]]
-	- [[Project]]
+### Individual
+[[Inbox]] | [[Atomic]] | [[Writing]] | [[Project]]
 
 
----
-- References
+### References 
 
-	- [[Articles]]
-	- [[Books]]
-	- [[Courses]]
-	- [[Essays]]
-	- [[Excerpt]]
-	- [[Papers]]
-	- [[People]]
-	- [[Podcasts]]
-	- [[Poems]]
-	- [[Textbooks]]
-	- [[Websites]]
-
-
-
+[[Articles]] | [[Books]] | [[Courses]] | [[Essays]] | [[Excerpt]] | [[Papers]] | [[People]] | [[Podcasts]] | [[Poems]] | [[Textbooks]] | [[Websites]]
