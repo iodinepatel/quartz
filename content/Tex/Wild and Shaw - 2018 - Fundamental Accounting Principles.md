@@ -1,6 +1,6 @@
 ---
 title: Wild and Shaw
-draft: false
+draft: true
 tags:
   - textbook/note
 ---
