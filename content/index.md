@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Iodine Patel
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+- [[1. Accounting in Business]]
+- [[2. Analyzing and Recording Transaction]]
+- [[3. Adjusting Accounts for Financial Statements]]
+- [[Fragment of Life]]
+
+

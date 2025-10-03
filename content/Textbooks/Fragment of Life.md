@@ -1,8 +1,8 @@
 ---
-title: Accounting in Business
+title: Fragment of Life
 draft: true
 tags:
-  - textbook/note
+  - atomic
 ---
 
 ## Importance of Accounting
