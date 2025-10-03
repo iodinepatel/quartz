@@ -8,9 +8,9 @@ tags:
 ## Importance of Accounting
 
 
-**Accounting** is an information and measurement system that **identifies**, **records**, and **communicates an organization’s business activities**.
+==**Accounting** is an information and measurement system that **identifies**, **records**, and **communicates an organization’s business activities**.==
 
-Technology plays a major role in accounting. Technology reduces the time, effort, and cost of recordkeeping while improving accuracy.
+==Technology plays a major role in accounting. Technology reduces the time, effort, and cost of recordkeeping while improving accuracy.==
 
 
 ### Users of Accounting Information
