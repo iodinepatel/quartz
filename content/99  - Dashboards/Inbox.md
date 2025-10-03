@@ -1,5 +1,5 @@
 ---
-title: Poetry
+title: Inbox
 draft: false
 tags:
   - dashboard

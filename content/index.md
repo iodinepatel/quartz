@@ -1,21 +1,25 @@
+-  [[Inbox]]
+- [[Active]]
+
+- [[Atomic]]
+- [[Writing]]
+- [[Project]]
 
 
+---
 
 
-- References
+- [[Articles]]
+- [[Books]]
+- [[Courses]]
+- [[Essays]]
+- [[Excerpt]]
+- [[Papers]]
+- [[People]]
+- [[Podcasts]]
+- [[Poems]]
+- [[Textbooks]]
+- [[Websites]]
 
-
-	- [[Articles]]
-	- [[Books]]
-	- [[Courses]]
-	- [[Essays]]
-	- [[Excerpt]]
-	- [[Papers]]
-	- [[People]]
-	- [[Podcasts]]
-	- [[Poetry]]
-	- [[Textbooks]]
-	- [[Websites]]
-	
 
 
