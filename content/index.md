@@ -1,9 +1,3 @@
----
-title: index
-draft: true
-tags:
-  - atomic
----
 
 
 - [[1. Accounting in Business]]
