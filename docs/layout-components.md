@@ -37,7 +37,7 @@ Component.Flex({
     { Component: Component.Darkmode() }, // Darkmode keeps its natural size
   ],
   direction: "row",
-  gap: "1rem",
+  gap: "0rem",
 })
 ```
 
