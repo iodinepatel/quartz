@@ -20,14 +20,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-                { Component: Component.PageTitle() },
-
+       { Component: Component.PageTitle() },
         {
           Component: Component.Search(),
           grow: true,
         },
         { Component: Component.Darkmode() },
       ],
+
+
+
+
     }),
 
     Component.ConditionalRender({
@@ -39,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-
+Component.DesktopOnly(Component.Explorer())
   ],
   right: [
     Component.Graph(),
