@@ -1,5 +1,8 @@
+#### Quick Navigation 
+[[Processing Zone]] | [[Atomic]] | [[Writing]] | [[Articles]] | [[Books]] | [[Courses]] | [[Essays]] | [[Excerpt]] | [[Papers]] | [[People]] | [[Podcasts]] | [[Poems]] | [[Textbooks]] | [[Websites]]
 
 
+### Spaces
 
 > [!info] [[Atomic]]
 > Each note is a single, self-contained, atomic idea—a knowledge neutron—stripped of extraneous context.
