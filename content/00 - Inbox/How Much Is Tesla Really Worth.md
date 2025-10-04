@@ -2,7 +2,6 @@
 title: Consultants are Taking Over the World’s Corner Offices
 tags:
   - articles
-permalink: https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/?srnd=phx-graphics-v2
 draft: false
 ---
 There’s a question that’s sparked countless debates among finance professors, analysts and investors, as well as heated arguments on social media: How much is Tesla Inc. worth? While some see the firm’s $1 trillion market capitalization as [justified](https://www.bloomberg.com/news/articles/2024-11-11/tesla-tsla-devotees-go-all-in-driving-300-billion-rally-on-trump-win), others contend that valuation is [divorced from reality](https://www.bloomberg.com/news/articles/2025-01-31/tesla-s-supercharged-narrative-shreds-stock-s-valuation-models).
