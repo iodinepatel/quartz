@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Cancer Drugs Cost More Than Evefhgfhgr. They Often Don’t Extend Lives
 tags:
   - articles
 draft: false

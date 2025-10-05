@@ -1,5 +1,7 @@
 ---
 title: Lets see about my notes
+cssclasses:
+  - max
 ---
 
 
@@ -54,3 +56,19 @@ Click here to open list of all the [[Articles]]
  - [[Who are the world’s best investors]]
 
 > [!info] Click here to open list of all the [[Articles]]
+
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("articles")
+    order:
+      - file.name
+      - title
+    columnSize:
+      file.name: 488
+
+```
