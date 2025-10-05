@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Launch Global Challenges 3270
 tags:
   - articles
 draft: false

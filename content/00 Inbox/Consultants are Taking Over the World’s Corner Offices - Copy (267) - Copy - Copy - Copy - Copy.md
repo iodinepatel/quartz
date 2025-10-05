@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Highlight Technological Innovation 5517
 tags:
   - articles
 draft: false

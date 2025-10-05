@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Introduce New Policy Shifts 2041
 tags:
   - articles
 draft: false

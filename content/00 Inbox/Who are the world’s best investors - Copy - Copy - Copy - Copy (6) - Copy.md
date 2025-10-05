@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Discuss Technological Innovation 6742
 tags:
   - articles
 draft: false

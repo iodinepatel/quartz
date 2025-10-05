@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Debate Global Challenges 1981
 tags:
   - articles
 draft: false

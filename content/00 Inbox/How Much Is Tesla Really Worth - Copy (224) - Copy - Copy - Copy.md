@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Launch Economic Growth 7559
 tags:
   - articles
 draft: false

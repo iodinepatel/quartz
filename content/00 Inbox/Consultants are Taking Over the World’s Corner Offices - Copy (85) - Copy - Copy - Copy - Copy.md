@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Debate Mental Health Issues 2071
 tags:
   - articles
 draft: false

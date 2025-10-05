@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Announce Tax Reforms 7570
 tags:
   - articles
 draft: false

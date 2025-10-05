@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Citizens Predict Tax Reforms 8270
 tags:
   - articles
 draft: false

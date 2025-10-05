@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Approve AI Expansion 2036
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Plan Job Market 7033
 tags:
   - articles
 draft: false

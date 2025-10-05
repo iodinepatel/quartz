@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Survey Note Global Challenges 8616
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Begin Global Challenges 5462
 tags:
   - articles
 draft: false

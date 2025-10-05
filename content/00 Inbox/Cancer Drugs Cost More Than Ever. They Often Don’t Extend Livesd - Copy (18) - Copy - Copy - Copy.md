@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Approve New Policy Shifts 2493
 tags:
   - articles
 draft: false

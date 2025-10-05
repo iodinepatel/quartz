@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Industry Begin Technological Innovation 9869
 tags:
   - articles
 draft: false

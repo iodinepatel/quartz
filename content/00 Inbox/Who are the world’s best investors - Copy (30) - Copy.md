@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Survey Reveal Climate Action 3773
 tags:
   - articles
 draft: false

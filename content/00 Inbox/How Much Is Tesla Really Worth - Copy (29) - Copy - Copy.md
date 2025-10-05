@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Claim Economic Growth 7522
 tags:
   - articles
 draft: false

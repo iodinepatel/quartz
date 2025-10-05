@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Highlight Education Reforms 2045
 tags:
   - articles
 draft: false

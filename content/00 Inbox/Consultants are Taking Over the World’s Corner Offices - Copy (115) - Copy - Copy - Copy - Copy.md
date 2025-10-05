@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Introduce Digital Transformation 5956
 tags:
   - articles
 draft: false

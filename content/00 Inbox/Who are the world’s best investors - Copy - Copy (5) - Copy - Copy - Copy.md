@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Approve Health Concerns 7728
 tags:
   - articles
 draft: false

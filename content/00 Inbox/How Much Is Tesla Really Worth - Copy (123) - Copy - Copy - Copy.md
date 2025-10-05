@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Debate AI Expansion 2362
 tags:
   - articles
 draft: false

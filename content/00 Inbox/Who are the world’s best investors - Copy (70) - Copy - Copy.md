@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Debate Climate Action 3614
 tags:
   - articles
 draft: false

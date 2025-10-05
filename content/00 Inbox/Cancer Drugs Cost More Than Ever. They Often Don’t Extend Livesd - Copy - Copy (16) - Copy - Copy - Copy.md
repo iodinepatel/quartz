@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Report Reveal Energy Transition 2045
 tags:
   - articles
 draft: false

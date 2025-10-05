@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Reveal New Policy Shifts 2215
 tags:
   - articles
 draft: false

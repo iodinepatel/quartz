@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Schools Approve Job Market 6594
 tags:
   - articles
 draft: false

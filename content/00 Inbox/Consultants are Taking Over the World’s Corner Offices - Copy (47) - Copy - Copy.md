@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Approve Rising Prices 6648
 tags:
   - articles
 draft: false

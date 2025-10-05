@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Show AI Expansion 6743
 tags:
   - articles
 draft: false

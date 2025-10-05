@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Study Health Concerns 1967
 tags:
   - articles
 draft: false

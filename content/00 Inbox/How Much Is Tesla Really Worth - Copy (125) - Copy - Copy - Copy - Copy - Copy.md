@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Note Rising Prices 7041
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Debate Rising Prices 1900
 tags:
   - articles
 draft: false

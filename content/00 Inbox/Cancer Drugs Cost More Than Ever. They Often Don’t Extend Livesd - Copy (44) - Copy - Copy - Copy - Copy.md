@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Schools Find Tax Reforms 8631
 tags:
   - articles
 draft: false

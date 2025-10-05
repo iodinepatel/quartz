@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Report Global Challenges 9788
 tags:
   - articles
 draft: false

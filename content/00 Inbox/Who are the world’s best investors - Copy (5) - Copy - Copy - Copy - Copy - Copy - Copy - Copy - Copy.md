@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Approve Economic Growth 2593
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Approve Technological Innovation 7558
 tags:
   - articles
 draft: false

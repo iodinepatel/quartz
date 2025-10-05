@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Announce Tax Reforms 5728
 tags:
   - articles
 draft: false

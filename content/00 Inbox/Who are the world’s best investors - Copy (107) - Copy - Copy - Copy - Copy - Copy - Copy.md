@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Plan Climate Action 5725
 tags:
   - articles
 draft: false

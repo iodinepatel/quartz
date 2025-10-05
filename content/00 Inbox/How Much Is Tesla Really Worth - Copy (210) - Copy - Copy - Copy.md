@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Begin Workplace Changes 2801
 tags:
   - articles
 draft: false

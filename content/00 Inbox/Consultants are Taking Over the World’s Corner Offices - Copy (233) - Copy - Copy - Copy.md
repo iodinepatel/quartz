@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Debate Education Reforms 1709
 tags:
   - articles
 draft: false

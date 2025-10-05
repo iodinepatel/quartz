@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Schools Note Housing Demand 1780
 tags:
   - articles
 draft: false

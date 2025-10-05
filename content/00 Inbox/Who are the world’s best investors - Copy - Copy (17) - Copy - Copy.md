@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Launch Global Challenges 7649
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Survey Find Tax Reforms 2524
 tags:
   - articles
 draft: false

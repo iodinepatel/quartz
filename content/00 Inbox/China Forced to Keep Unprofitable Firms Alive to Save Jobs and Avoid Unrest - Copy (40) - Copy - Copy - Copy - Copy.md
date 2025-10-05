@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Report Note Energy Transition 8520
 tags:
   - articles
 draft: false

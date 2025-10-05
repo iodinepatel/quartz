@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Begin Climate Action 1148
 tags:
   - articles
 draft: false

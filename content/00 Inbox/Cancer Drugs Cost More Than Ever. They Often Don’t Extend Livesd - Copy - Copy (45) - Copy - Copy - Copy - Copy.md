@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Report Discuss Consumer Spending 7352
 tags:
   - articles
 draft: false

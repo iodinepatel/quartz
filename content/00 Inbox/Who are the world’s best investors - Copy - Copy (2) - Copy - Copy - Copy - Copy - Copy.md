@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Find Consumer Spending 8508
 tags:
   - articles
 draft: false

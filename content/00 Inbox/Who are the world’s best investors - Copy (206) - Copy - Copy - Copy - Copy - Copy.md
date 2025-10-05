@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Debate Global Challenges 3290
 tags:
   - articles
 draft: false

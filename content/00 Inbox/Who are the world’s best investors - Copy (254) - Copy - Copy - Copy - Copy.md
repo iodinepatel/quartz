@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Propose Technological Innovation 2089
 tags:
   - articles
 draft: false

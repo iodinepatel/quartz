@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Plan Housing Demand 9947
 tags:
   - articles
 draft: false

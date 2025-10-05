@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Approve Education Reforms 9975
 tags:
   - articles
 draft: false

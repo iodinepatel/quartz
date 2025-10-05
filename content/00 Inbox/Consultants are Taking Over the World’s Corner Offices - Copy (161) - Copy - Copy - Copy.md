@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Show Climate Action 9290
 tags:
   - articles
 draft: false

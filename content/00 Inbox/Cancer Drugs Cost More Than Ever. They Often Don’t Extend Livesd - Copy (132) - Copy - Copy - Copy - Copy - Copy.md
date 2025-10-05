@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Analysts Approve Climate Action 9004
 tags:
   - articles
 draft: false

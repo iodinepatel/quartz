@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Find Climate Action 2423
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Propose Education Reforms 1106
 tags:
   - articles
 draft: false

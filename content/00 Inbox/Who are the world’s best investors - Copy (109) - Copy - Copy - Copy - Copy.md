@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Plan Public Awareness 2865
 tags:
   - articles
 draft: false

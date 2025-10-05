@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Industry Introduce AI Expansion 8228
 tags:
   - articles
 draft: false

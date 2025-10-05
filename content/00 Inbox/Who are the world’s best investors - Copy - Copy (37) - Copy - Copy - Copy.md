@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Report AI Expansion 9716
 tags:
   - articles
 draft: false

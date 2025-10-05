@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Researchers Begin Global Challenges 6971
 tags:
   - articles
 draft: false

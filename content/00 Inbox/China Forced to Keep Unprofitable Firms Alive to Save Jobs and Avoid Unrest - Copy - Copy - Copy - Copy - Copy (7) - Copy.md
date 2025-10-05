@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Industry Debate Digital Transformation 6619
 tags:
   - articles
 draft: false

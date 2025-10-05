@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Doctors Highlight Digital Transformation 6693
 tags:
   - articles
 draft: false

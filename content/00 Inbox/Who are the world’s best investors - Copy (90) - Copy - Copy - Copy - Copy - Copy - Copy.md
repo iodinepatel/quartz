@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Debate Social Media Trends 1978
 tags:
   - articles
 draft: false

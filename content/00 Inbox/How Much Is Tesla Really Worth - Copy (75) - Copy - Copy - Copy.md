@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Face Climate Action 2846
 tags:
   - articles
 draft: false

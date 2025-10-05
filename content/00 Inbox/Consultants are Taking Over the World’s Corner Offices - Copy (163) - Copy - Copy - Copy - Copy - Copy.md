@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Begin Economic Growth 2467
 tags:
   - articles
 draft: false

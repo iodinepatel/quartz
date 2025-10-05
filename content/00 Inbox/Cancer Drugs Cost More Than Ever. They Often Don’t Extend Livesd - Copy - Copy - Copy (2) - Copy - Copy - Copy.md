@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Launch Social Media Trends 8741
 tags:
   - articles
 draft: false

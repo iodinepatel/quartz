@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Citizens Claim Tax Reforms 1939
 tags:
   - articles
 draft: false

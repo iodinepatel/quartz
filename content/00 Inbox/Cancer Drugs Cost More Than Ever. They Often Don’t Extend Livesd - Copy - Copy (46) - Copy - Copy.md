@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Universities Propose Global Challenges 5121
 tags:
   - articles
 draft: false

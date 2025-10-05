@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Experts Introduce AI Expansion 3040
 tags:
   - articles
 draft: false

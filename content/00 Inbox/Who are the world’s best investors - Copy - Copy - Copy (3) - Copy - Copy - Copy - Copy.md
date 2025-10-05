@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Approve Economic Growth 1237
 tags:
   - articles
 draft: false

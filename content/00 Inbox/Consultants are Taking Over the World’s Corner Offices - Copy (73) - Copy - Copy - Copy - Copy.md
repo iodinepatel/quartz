@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Report Workplace Changes 2011
 tags:
   - articles
 draft: false

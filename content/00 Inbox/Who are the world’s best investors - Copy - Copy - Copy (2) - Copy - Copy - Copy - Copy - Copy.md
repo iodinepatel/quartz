@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Begin Energy Transition 1403
 tags:
   - articles
 draft: false

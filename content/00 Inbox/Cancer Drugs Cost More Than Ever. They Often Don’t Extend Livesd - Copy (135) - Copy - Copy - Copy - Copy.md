@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Economy Plan Tax Reforms 7847
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Predict AI Expansion 1901
 tags:
   - articles
 draft: false

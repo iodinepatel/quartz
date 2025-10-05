@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Doctors Face Economic Growth 9419
 tags:
   - articles
 draft: false

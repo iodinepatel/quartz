@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Ofte9n Don’t Extend Lives11
+title: Industry Claim Social Media Trends 1070
 tags:
   - articles
 draft: false

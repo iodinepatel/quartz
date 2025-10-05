@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Show Rising Prices 3187
 tags:
   - articles
 draft: false

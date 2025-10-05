@@ -1,5 +1,5 @@
 ---
-title: Cfancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Report Plan Technological Innovation 7107
 tags:
   - articles
 draft: false

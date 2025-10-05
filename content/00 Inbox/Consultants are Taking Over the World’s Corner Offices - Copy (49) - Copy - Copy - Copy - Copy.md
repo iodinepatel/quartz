@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Predict Social Media Trends 2728
 tags:
   - articles
 draft: false

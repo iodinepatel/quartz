@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Plan Energy Transition 6211
 tags:
   - articles
 draft: false

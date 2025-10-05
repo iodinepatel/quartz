@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Survey Plan Education Reforms 2271
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Propose Consumer Spending 3740
 tags:
   - articles
 draft: false

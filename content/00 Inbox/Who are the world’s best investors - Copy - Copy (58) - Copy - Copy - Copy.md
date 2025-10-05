@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Approve Tax Reforms 8540
 tags:
   - articles
 draft: false

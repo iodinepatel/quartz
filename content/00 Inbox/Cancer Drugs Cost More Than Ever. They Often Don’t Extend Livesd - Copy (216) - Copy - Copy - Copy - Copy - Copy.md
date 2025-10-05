@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Study Reveal Energy Transition 9879
 tags:
   - articles
 draft: false

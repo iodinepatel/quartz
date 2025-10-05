@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Plan New Policy Shifts 7437
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Predict Energy Transition 3065
 tags:
   - articles
 draft: false

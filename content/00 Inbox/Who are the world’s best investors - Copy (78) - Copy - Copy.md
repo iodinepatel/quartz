@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Find Tax Reforms 7505
 tags:
   - articles
 draft: false

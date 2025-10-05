@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Schools Launch Energy Transition 5908
 tags:
   - articles
 draft: false

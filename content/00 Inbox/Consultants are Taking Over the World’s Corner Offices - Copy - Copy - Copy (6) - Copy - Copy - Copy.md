@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Discuss New Policy Shifts 2011
 tags:
   - articles
 draft: false

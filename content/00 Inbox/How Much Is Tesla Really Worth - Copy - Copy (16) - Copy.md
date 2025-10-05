@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Debate AI Expansion 1860
 tags:
   - articles
 draft: false

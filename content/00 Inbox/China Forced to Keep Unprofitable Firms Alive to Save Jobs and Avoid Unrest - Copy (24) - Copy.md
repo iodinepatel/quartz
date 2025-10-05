@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Government Reveal New Policy Shifts 1964
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Note AI Expansion 6206
 tags:
   - articles
 draft: false

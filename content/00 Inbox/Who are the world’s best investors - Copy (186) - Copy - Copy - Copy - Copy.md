@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Question Technological Innovation 1382
 tags:
   - articles
 draft: false

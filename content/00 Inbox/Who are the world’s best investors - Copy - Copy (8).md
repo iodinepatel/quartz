@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Begin AI Expansion 3727
 tags:
   - articles
 draft: false

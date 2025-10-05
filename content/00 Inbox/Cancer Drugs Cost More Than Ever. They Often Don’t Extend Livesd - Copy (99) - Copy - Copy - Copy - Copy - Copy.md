@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Developers Propose Economic Growth 1765
 tags:
   - articles
 draft: false

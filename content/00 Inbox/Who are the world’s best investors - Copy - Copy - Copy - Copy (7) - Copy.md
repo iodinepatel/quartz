@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Announce Housing Demand 6567
 tags:
   - articles
 draft: false

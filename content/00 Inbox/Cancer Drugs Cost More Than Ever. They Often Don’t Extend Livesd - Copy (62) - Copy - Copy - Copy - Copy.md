@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Community Launch Rising Prices 4671
 tags:
   - articles
 draft: false

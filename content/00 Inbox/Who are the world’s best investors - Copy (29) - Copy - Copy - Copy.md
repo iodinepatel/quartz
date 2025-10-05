@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Plan Education Reforms 1709
 tags:
   - articles
 draft: false

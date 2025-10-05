@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Discuss Climate Action 1987
 tags:
   - articles
 draft: false

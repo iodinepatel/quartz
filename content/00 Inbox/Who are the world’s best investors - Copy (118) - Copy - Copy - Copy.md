@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Highlight Workplace Changes 7334
 tags:
   - articles
 draft: false

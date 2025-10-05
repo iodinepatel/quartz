@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Corporations Predict Education Reforms 2073
 tags:
   - articles
 draft: false

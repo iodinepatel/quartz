@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Question Climate Action 1990
 tags:
   - articles
 draft: false

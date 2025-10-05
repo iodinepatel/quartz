@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Debate Digital Transformation 9364
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Citizens Approve Job Market 9837
 tags:
   - articles
 draft: false

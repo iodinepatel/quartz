@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Find AI Expansion 6007
 tags:
   - articles
 draft: false

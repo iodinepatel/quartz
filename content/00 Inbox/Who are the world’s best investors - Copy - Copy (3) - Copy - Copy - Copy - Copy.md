@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Report Rising Prices 1829
 tags:
   - articles
 draft: false

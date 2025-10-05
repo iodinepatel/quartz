@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Claim Job Market 2197
 tags:
   - articles
 draft: false

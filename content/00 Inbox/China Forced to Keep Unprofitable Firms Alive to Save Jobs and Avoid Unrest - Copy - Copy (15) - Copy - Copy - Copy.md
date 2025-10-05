@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Universities Announce Rising Prices 5582
 tags:
   - articles
 draft: false

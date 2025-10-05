@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Approve Climate Action 1341
 tags:
   - articles
 draft: false

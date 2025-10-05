@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often adfDon’t Extend Lives
+title: Citizens Approve Job Market 2006
 tags:
   - articles
 draft: false

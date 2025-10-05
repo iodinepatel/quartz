@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Begin Housing Demand 1824
 tags:
   - articles
 draft: false

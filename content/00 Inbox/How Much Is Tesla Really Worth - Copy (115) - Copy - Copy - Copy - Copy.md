@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Predict Consumer Spending 6210
 tags:
   - articles
 draft: false

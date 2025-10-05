@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Propose Rising Prices 4550
 tags:
   - articles
 draft: false

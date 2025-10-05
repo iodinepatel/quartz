@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Propose Job Market 1943
 tags:
   - articles
 draft: false

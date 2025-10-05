@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Debate Tax Reforms 2024
 tags:
   - articles
 draft: false

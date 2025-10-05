@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Announce Public Awareness 1031
 tags:
   - articles
 draft: false

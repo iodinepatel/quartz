@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Launch Social Media Trends 1600
 tags:
   - articles
 draft: false

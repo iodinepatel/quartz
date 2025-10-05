@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Reveal Global Challenges 2838
 tags:
   - articles
 draft: false

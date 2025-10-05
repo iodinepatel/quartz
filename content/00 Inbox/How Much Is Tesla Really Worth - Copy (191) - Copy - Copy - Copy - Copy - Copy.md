@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Approve Mental Health Issues 2050
 tags:
   - articles
 draft: false

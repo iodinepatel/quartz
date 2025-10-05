@@ -1,5 +1,5 @@
 ---
-title: Cancefhfghr Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Study Reveal Workplace Changes 6920
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Approve AI Expansion 1855
 tags:
   - articles
 draft: false

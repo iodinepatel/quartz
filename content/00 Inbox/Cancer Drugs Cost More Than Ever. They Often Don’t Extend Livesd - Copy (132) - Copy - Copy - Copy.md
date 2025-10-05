@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Community Predict Workplace Changes 2082
 tags:
   - articles
 draft: false

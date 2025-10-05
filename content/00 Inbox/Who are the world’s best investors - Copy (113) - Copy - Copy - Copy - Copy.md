@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Industry Reveal Technological Innovation 1890
 tags:
   - articles
 draft: false

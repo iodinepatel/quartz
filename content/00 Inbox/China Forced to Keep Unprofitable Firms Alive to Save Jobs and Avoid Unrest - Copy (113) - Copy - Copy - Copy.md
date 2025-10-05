@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Corporations Begin Energy Transition 1709
 tags:
   - articles
 draft: false

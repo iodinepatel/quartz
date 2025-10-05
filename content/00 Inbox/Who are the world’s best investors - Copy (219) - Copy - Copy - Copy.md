@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Report Rising Prices 5126
 tags:
   - articles
 draft: false

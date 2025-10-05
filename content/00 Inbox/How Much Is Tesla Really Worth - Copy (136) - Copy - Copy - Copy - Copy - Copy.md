@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Industry Announce Health Concerns 8266
 tags:
   - articles
 draft: false

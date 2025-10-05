@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Begin Job Market 1754
 tags:
   - articles
 draft: false

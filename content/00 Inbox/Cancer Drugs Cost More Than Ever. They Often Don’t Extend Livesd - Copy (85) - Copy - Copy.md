@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Universities Note Social Media Trends 2050
 tags:
   - articles
 draft: false

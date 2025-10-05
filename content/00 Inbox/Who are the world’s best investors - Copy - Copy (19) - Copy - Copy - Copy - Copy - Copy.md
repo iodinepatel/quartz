@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Introduce Workplace Changes 1971
 tags:
   - articles
 draft: false

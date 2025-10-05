@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Plan AI Expansion 8560
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Community Plan Workplace Changes 8354
 tags:
   - articles
 draft: false

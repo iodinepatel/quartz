@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Researchers Begin Mental Health Issues 6278
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Economy Plan Energy Transition 7570
 tags:
   - articles
 draft: false

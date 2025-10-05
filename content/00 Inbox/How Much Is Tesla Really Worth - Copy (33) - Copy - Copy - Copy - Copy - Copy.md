@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Approve Social Media Trends 1150
 tags:
   - articles
 draft: false

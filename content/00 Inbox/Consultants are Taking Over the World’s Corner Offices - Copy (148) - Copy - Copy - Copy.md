@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Reveal Energy Transition 1991
 tags:
   - articles
 draft: false

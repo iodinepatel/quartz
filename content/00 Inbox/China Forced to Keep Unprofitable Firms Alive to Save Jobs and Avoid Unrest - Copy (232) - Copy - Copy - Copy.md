@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Industry Approve Education Reforms 8070
 tags:
   - articles
 draft: false

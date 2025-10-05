@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Find New Policy Shifts 9496
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Survey Report Digital Transformation 2392
 tags:
   - articles
 draft: false

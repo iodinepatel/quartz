@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Plan Mental Health Issues 8418
 tags:
   - articles
 draft: false

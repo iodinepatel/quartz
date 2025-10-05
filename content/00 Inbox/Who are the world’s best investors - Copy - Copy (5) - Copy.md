@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Industry Announce New Policy Shifts 2729
 tags:
   - articles
 draft: false

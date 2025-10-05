@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Find Job Market 7903
 tags:
   - articles
 draft: false

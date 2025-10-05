@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Face Global Challenges 6321
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Find Climate Action 5520
 tags:
   - articles
 draft: false

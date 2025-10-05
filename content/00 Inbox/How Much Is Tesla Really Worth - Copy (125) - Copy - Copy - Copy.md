@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Industry Announce Job Market 9529
 tags:
   - articles
 draft: false

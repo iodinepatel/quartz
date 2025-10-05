@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Face Education Reforms 8290
 tags:
   - articles
 draft: false

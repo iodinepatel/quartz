@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Approve Tax Reforms 4539
 tags:
   - articles
 draft: false

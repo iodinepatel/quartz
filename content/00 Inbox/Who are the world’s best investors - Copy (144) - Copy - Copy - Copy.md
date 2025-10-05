@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Discuss Energy Transition 1976
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Face Digital Transformation 2024
 tags:
   - articles
 draft: false

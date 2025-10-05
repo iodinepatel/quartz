@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Study Housing Demand 2296
 tags:
   - articles
 draft: false

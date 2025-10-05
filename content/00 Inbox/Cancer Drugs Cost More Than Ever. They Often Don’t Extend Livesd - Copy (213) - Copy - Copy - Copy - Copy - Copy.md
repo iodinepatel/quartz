@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Officials Study Climate Action 8779
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Propose Tax Reforms 6246
 tags:
   - articles
 draft: false

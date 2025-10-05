@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Discuss Rising Prices 6098
 tags:
   - articles
 draft: false

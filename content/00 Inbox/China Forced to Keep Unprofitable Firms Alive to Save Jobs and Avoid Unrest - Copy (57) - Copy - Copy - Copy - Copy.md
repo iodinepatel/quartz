@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Schools Face AI Expansion 6945
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Debate Rising Prices 3401
 tags:
   - articles
 draft: false

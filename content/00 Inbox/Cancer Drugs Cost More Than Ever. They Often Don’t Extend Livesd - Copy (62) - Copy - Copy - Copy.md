@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Study Show Environmental Risks 2789
 tags:
   - articles
 draft: false

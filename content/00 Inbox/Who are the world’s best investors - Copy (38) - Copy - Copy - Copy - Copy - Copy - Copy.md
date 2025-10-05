@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Government Plan Workplace Changes 8866
 tags:
   - articles
 draft: false

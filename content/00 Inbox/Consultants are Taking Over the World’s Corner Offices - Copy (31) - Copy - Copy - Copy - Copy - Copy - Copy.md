@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Note Job Market 3526
 tags:
   - articles
 draft: false

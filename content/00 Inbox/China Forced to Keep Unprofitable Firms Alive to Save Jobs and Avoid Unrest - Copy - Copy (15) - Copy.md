@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Schools Note Climate Action 1826
 tags:
   - articles
 draft: false

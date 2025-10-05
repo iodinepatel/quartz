@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Propose Global Challenges 8100
 tags:
   - articles
 draft: false

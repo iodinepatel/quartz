@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Announce Climate Action 4028
 tags:
   - articles
 draft: false

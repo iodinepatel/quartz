@@ -1,5 +1,5 @@
 ---
-title: Cansgsdfger Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Introduce Consumer Spending 3045
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Citizens Plan Global Challenges 1075
 tags:
   - articles
 draft: false

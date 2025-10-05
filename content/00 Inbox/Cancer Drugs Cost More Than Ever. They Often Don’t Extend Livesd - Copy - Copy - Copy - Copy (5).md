@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Ogfadfften Don’t Extend Lives
+title: Analysts Launch Global Challenges 2078
 tags:
   - articles
 draft: false

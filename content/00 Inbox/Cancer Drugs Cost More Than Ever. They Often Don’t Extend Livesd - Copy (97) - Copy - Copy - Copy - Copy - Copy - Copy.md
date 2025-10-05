@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Community Propose Digital Transformation 7320
 tags:
   - articles
 draft: false

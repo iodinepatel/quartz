@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Study Plan Digital Transformation 2395
 tags:
   - articles
 draft: false

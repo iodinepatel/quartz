@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Corporations Introduce Public Awareness 8200
 tags:
   - articles
 draft: false

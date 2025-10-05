@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Plan Rising Prices 9211
 tags:
   - articles
 draft: false

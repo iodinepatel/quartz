@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Schools Highlight Technological Innovation 5950
 tags:
   - articles
 draft: false

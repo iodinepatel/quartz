@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Approve Tax Reforms 2082
 tags:
   - articles
 draft: false

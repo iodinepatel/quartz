@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Plan Global Challenges 1810
 tags:
   - articles
 draft: false

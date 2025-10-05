@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Experts Debate Consumer Spending 1928
 tags:
   - articles
 draft: false

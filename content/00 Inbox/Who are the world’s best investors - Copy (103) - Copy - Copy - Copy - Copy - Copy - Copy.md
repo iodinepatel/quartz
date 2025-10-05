@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Introduce Mental Health Issues 6707
 tags:
   - articles
 draft: false

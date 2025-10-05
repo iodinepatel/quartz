@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Government Approve Environmental Risks 7122
 tags:
   - articles
 draft: false

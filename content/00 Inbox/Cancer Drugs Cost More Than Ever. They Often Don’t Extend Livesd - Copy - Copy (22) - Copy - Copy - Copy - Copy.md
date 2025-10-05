@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Citizens Debate Energy Transition 9606
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Approve Housing Demand 8922
 tags:
   - articles
 draft: false

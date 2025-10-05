@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Find Environmental Risks 2478
 tags:
   - articles
 draft: false

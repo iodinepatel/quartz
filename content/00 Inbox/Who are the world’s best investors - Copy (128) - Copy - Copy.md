@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Debate Rising Prices 3998
 tags:
   - articles
 draft: false

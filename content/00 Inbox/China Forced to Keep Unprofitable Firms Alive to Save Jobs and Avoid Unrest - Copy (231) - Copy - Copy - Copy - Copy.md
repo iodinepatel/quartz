@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Developers Introduce Consumer Spending 6330
 tags:
   - articles
 draft: false

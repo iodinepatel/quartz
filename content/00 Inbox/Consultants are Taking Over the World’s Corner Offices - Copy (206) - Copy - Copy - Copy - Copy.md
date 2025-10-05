@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Face AI Expansion 8906
 tags:
   - articles
 draft: false

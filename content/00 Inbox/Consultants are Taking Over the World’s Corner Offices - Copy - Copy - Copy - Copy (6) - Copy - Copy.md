@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Approve Energy Transition 8143
 tags:
   - articles
 draft: false

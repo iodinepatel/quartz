@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Claim Rising Prices 1950
 tags:
   - articles
 draft: false

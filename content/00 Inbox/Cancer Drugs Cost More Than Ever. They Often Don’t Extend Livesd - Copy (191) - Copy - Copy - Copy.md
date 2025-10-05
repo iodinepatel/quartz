@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Community Debate Education Reforms 2698
 tags:
   - articles
 draft: false

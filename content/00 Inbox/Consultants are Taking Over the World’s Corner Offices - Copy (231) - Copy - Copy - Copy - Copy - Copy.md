@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Note Digital Transformation 3556
 tags:
   - articles
 draft: false

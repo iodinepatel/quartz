@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Industry Face Technological Innovation 1532
 tags:
   - articles
 draft: false

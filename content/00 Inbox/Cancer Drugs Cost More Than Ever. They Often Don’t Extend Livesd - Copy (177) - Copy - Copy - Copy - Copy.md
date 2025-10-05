@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Community Debate AI Expansion 6262
 tags:
   - articles
 draft: false

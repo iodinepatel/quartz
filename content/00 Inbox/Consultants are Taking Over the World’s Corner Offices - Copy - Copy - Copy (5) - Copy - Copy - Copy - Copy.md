@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Report Predict Digital Transformation 6360
 tags:
   - articles
 draft: false

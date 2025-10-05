@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Introduce Rising Prices 1425
 tags:
   - articles
 draft: false

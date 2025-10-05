@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Introduce New Policy Shifts 1826
 tags:
   - articles
 draft: false

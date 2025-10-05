@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Plan Workplace Changes 2483
 tags:
   - articles
 draft: false

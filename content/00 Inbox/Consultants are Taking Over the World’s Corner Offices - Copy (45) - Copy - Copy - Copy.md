@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Debate Technological Innovation 2352
 tags:
   - articles
 draft: false

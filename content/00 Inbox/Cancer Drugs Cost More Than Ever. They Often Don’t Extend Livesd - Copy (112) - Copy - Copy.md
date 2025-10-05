@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Community Study Workplace Changes 6588
 tags:
   - articles
 draft: false

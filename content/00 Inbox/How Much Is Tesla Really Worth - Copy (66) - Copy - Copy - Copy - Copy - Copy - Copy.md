@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Propose Technological Innovation 1754
 tags:
   - articles
 draft: false

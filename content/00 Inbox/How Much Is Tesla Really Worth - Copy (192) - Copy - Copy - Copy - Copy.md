@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Face Technological Innovation 9301
 tags:
   - articles
 draft: false

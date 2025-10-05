@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Face Technological Innovation 1909
 tags:
   - articles
 draft: false

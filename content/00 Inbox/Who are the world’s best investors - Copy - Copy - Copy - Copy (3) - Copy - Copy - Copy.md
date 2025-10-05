@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Plan Environmental Risks 2078
 tags:
   - articles
 draft: false

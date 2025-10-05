@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Citizens Approve Mental Health Issues 6706
 tags:
   - articles
 draft: false

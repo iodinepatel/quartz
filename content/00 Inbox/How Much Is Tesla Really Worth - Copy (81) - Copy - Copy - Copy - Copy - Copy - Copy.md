@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Government Plan Global Challenges 9614
 tags:
   - articles
 draft: false

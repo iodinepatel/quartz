@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Introduce Social Media Trends 2292
 tags:
   - articles
 draft: false

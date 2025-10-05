@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Co22st More Than Ever. They Often Don’t Extend Lives
+title: Industry Debate Mental Health Issues 4793
 tags:
   - articles
 draft: false

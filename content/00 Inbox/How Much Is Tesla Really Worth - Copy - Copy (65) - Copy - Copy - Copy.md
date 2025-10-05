@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Propose Digital Transformation 2632
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Market Launch Tax Reforms 5050
 tags:
   - articles
 draft: false

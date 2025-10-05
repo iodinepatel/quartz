@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Market Begin Rising Prices 1869
 tags:
   - articles
 draft: false

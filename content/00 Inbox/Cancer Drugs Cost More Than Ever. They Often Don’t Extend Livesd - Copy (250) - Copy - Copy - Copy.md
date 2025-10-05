@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Government Plan Technological Innovation 8400
 tags:
   - articles
 draft: false

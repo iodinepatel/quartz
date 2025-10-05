@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Begin Job Market 8067
 tags:
   - articles
 draft: false

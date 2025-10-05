@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Plan Public Awareness 5692
 tags:
   - articles
 draft: false

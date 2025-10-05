@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Study Announce Mental Health Issues 2028
 tags:
   - articles
 draft: false

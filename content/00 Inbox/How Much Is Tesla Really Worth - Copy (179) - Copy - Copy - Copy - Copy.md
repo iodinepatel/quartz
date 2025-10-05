@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Approve Mental Health Issues 9830
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Claim Climate Action 6659
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Study Reveal Mental Health Issues 8478
 tags:
   - articles
 draft: false

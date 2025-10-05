@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Plan AI Expansion 8837
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Approve Tax Reforms 4674
 tags:
   - articles
 draft: false

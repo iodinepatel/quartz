@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Approve Digital Transformation 9726
 tags:
   - articles
 draft: false

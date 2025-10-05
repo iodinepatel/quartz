@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Announce Technological Innovation 9560
 tags:
   - articles
 draft: false

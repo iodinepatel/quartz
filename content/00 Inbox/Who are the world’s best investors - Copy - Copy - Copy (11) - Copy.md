@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Debate AI Expansion 2728
 tags:
   - articles
 draft: false

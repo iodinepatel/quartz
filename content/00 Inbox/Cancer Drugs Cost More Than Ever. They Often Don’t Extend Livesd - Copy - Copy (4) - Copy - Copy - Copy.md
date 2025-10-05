@@ -1,5 +1,5 @@
 ---
-title: Cancerhfghfgh Drugs Cost More Than Evegf They Often Don’t Extend Lives
+title: Industry Find Public Awareness 2193
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Introduce Job Market 2056
 tags:
   - articles
 draft: false

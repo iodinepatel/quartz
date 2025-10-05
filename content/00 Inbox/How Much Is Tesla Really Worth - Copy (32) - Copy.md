@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Announce Workplace Changes 4063
 tags:
   - articles
 draft: false

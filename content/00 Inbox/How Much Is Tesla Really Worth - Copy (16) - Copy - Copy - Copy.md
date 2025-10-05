@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Face Workplace Changes 9892
 tags:
   - articles
 draft: false

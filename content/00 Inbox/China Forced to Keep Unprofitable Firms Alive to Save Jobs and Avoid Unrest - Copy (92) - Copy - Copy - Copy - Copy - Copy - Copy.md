@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Community Propose Job Market 7458
 tags:
   - articles
 draft: false

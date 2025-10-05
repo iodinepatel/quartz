@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Survey Plan Climate Action 2170
 tags:
   - articles
 draft: false

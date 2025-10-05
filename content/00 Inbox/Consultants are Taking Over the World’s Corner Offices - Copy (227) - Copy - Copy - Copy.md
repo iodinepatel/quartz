@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Launch Rising Prices 1917
 tags:
   - articles
 draft: false

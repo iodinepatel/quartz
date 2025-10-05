@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Survey Approve Tax Reforms 2063
 tags:
   - articles
 draft: false

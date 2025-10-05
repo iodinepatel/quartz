@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Universities Discuss Health Concerns 1970
 tags:
   - articles
 draft: false

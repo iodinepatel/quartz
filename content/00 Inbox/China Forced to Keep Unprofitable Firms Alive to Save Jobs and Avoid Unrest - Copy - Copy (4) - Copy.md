@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Economy Debate Workplace Changes 6946
 tags:
   - articles
 draft: false

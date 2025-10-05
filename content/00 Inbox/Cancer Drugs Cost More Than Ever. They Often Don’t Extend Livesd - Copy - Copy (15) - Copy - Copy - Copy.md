@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Scientists Announce Public Awareness 2792
 tags:
   - articles
 draft: false

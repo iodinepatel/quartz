@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Report Technological Innovation 1870
 tags:
   - articles
 draft: false

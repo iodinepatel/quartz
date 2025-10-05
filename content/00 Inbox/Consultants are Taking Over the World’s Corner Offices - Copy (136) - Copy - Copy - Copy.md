@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Report Energy Transition 7916
 tags:
   - articles
 draft: false

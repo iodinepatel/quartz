@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Announce Energy Transition 3476
 tags:
   - articles
 draft: false

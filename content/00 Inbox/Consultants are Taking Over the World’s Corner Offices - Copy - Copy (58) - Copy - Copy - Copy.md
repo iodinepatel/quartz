@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Industry Introduce Economic Growth 1693
 tags:
   - articles
 draft: false

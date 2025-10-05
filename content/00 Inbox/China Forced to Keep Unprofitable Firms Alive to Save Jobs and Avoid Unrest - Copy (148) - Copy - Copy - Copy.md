@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Community Report Climate Action 9392
 tags:
   - articles
 draft: false

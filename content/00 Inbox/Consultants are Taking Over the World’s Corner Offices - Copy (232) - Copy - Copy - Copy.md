@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Doctors Launch Consumer Spending 6950
 tags:
   - articles
 draft: false

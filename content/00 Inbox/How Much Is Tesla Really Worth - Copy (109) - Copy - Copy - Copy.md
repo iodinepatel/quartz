@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Reveal Economic Growth 1914
 tags:
   - articles
 draft: false

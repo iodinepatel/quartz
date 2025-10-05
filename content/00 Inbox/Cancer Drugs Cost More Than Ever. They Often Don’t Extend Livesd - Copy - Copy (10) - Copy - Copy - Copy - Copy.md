@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Government Begin Workplace Changes 1707
 tags:
   - articles
 draft: false

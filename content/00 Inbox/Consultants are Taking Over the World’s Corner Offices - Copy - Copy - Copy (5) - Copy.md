@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Propose Global Challenges 5474
 tags:
   - articles
 draft: false

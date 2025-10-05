@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Universities Launch New Policy Shifts 9724
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Doctors Plan Health Concerns 1996
 tags:
   - articles
 draft: false

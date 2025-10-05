@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Find New Policy Shifts 1524
 tags:
   - articles
 draft: false

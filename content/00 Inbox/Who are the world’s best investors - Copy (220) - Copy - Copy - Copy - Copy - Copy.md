@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Note Economic Growth 1099
 tags:
   - articles
 draft: false

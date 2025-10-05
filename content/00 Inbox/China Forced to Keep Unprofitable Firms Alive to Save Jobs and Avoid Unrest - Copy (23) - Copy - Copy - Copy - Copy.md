@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Study Launch Technological Innovation 2040
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Startups Debate Climate Action 2100
 tags:
   - articles
 draft: false

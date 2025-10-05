@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Corporations Begin Public Awareness 1498
 tags:
   - articles
 draft: false

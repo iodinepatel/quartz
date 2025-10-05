@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Plan Technological Innovation 8335
 tags:
   - articles
 draft: false

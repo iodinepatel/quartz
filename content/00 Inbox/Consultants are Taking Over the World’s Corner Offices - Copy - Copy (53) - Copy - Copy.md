@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Face Technological Innovation 9201
 tags:
   - articles
 draft: false

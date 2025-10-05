@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Plan Technological Innovation 6204
 tags:
   - articles
 draft: false

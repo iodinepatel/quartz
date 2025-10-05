@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Officials Approve Workplace Changes 9439
 tags:
   - articles
 draft: false

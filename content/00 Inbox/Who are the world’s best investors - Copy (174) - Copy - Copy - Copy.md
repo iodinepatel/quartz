@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Reveal Workplace Changes 7055
 tags:
   - articles
 draft: false

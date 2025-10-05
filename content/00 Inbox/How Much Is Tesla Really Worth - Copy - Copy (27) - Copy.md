@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Researchers Propose Social Media Trends 4418
 tags:
   - articles
 draft: false

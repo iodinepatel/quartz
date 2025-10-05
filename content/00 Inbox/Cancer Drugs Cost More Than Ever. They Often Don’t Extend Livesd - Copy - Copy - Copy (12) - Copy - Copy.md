@@ -1,5 +1,5 @@
 ---
-title: Cfhfghfghfhancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Economy Launch Rising Prices 1524
 tags:
   - articles
 draft: false

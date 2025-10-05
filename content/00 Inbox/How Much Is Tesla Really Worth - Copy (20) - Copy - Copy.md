@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Face Digital Transformation 3779
 tags:
   - articles
 draft: false

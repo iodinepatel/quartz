@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Debate Public Awareness 1974
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Claim Education Reforms 1698
 tags:
   - articles
 draft: false

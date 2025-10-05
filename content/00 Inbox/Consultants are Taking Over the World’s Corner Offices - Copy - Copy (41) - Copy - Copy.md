@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Community Launch New Policy Shifts 1018
 tags:
   - articles
 draft: false

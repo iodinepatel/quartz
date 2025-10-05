@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Market Highlight Rising Prices 6386
 tags:
   - articles
 draft: false

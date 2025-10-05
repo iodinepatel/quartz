@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Citizens Highlight Climate Action 3888
 tags:
   - articles
 draft: false

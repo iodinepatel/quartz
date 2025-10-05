@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Schools Launch Housing Demand 9872
 tags:
   - articles
 draft: false

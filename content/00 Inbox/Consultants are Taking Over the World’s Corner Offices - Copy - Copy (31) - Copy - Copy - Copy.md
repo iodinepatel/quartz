@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Universities Predict Digital Transformation 1522
 tags:
   - articles
 draft: false

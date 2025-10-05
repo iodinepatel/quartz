@@ -1,5 +1,5 @@
 ---
-title: China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest
+title: Analysts Launch Climate Action 1788
 tags:
   - articles
 draft: false

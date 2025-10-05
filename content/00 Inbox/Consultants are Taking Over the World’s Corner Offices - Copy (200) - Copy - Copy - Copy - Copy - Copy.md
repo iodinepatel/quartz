@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Survey Plan New Policy Shifts 2287
 tags:
   - articles
 draft: false

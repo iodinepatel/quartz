@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Developers Question Job Market 2303
 tags:
   - articles
 draft: false

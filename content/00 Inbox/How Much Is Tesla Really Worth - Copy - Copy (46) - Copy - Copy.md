@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Propose New Policy Shifts 1916
 tags:
   - articles
 draft: false

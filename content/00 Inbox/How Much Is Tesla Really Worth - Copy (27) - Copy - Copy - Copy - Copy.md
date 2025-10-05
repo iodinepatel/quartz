@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Economy Approve Climate Action 7102
 tags:
   - articles
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Face AI Expansion 2123
 tags:
   - articles
 draft: false

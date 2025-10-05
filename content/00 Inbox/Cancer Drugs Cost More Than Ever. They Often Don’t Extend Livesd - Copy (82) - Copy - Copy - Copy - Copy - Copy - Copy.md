@@ -1,5 +1,5 @@
 ---
-title: Cancer Drugs Cost More Than Ever. They Often Don’t Extend Lives
+title: Experts Note Education Reforms 1895
 tags:
   - articles
 draft: false

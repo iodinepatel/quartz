@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Analysts Approve Workplace Changes 2080
 tags:
   - articles
 draft: false

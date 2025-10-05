@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Debate Education Reforms 7080
 tags:
   - articles
 draft: false

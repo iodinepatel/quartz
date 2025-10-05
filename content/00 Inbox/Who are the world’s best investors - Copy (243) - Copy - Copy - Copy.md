@@ -1,5 +1,5 @@
 ---
-title: Consultants are Taking Over the World’s Corner Offices
+title: Scientists Announce Housing Demand 2029
 tags:
   - articles
 draft: false
