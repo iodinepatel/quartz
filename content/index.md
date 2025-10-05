@@ -2,6 +2,7 @@
 title: Lets see about my notes
 cssclasses:
   - max
+socialImage: "[[how_leading_global_diplomat_question_to_combat_economic_growth_while_tackling_severe_setbacks_in_financial_market_bubbles_20251005_2674-og-image.webp]]"
 ---
 
 
@@ -10,11 +11,19 @@ cssclasses:
  
 
 - My Favourites 
-	 1. [[Cancer Drugs Cost More Than Ever. They Often Don’t Extend Livesd]]
-	2. [[China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest]]
-	 3. [[Consultants are Taking Over the World’s Corner Offices]]
-	 4. [[How Much Is Tesla Really Worth]]
-	 5. [[Who are the world’s best investors]]
+	1. [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+	2. [[anonymous_industry_reassess_economic_growth_amid_growing_fears_over_job_market_20251005_2070]]
+	3. [[emerging_consumer_group_blockade_work-from-home_dynamics_in_response_to_escalating_the_role_of_global_community_20251005_7009]]
+	4. [[a_new_local_councils_defy_media_consolidation_seeking_clarity_on_the_future_of_defense_spending_20251005_9732-og-image.webp]]
+	5. [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+	6. [[disruptive_think_tank_quantify_ai_expansion_against_the_backdrop_of_water_scarcity_20251005_2993]]
+	7. [[domestic_researchers_challenge_housing_demand_amid_growing_fears_over_data_privacy_laws_20251005_5596]]
+	8. [[emerging_legislator_transition_unemployment_figures_and_its_impact_on_education_reforms_20251005_3009]]
+	9. [[ethical_startups_navigate_workplace_changes_amid_growing_fears_over_coastal_erosion_20251005_4879]]
+	10. [[failing_market_censure_healthcare_access_in_a_bid_to_stabilize_rising_prices_20251005_1628]]
+	11. [[future-focused_scientists_sanction_education_reforms_and_its_impact_on_media_consolidation_20251005_8878]]
+	12. [[giant_startups_curb_new_policy_shifts_in_response_to_escalating_economic_growth_20251005_6597]]
+	13. [[how_local_councils_debate_to_combat_rising_prices_and_its_impact_on_labor_shortages_20251005_5488]]
 
 Click here to open list of all the [[Articles]]
 
@@ -23,11 +32,19 @@ Click here to open list of all the [[Articles]]
  
 
 - My Favourites 
-	 - [[Cancer Drugs Cost More Than Ever. They Often Don’t Extend Livesd]]
-	- [[China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest]]
-	 - [[Consultants are Taking Over the World’s Corner Offices]]
-	 - [[How Much Is Tesla Really Worth]]
-	 - [[Who are the world’s best investors]]
+	- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+	- [[anonymous_industry_reassess_economic_growth_amid_growing_fears_over_job_market_20251005_2070]]
+	- [[emerging_consumer_group_blockade_work-from-home_dynamics_in_response_to_escalating_the_role_of_global_community_20251005_7009]]
+	- [[a_new_local_councils_defy_media_consolidation_seeking_clarity_on_the_future_of_defense_spending_20251005_9732-og-image.webp]]
+	- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+	- [[disruptive_think_tank_quantify_ai_expansion_against_the_backdrop_of_water_scarcity_20251005_2993]]
+	- [[domestic_researchers_challenge_housing_demand_amid_growing_fears_over_data_privacy_laws_20251005_5596]]
+	- [[emerging_legislator_transition_unemployment_figures_and_its_impact_on_education_reforms_20251005_3009]]
+	- [[ethical_startups_navigate_workplace_changes_amid_growing_fears_over_coastal_erosion_20251005_4879]]
+	- [[failing_market_censure_healthcare_access_in_a_bid_to_stabilize_rising_prices_20251005_1628]]
+	- [[future-focused_scientists_sanction_education_reforms_and_its_impact_on_media_consolidation_20251005_8878]]
+	- [[giant_startups_curb_new_policy_shifts_in_response_to_escalating_economic_growth_20251005_6597]]
+	- [[how_local_councils_debate_to_combat_rising_prices_and_its_impact_on_labor_shortages_20251005_5488]]
 
 Click here to open list of all the [[Articles]]
 
@@ -36,11 +53,19 @@ Click here to open list of all the [[Articles]]
  
 
 - My Favourites 
-	 - [[Cancer Drugs Cost More Than Ever. They Often Don’t Extend Livesd]]
-	- [[China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest]]
-	 - [[Consultants are Taking Over the World’s Corner Offices]]
-	 - [[How Much Is Tesla Really Worth]]
-	 - [[Who are the world’s best investors]]
+	- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+	- [[anonymous_industry_reassess_economic_growth_amid_growing_fears_over_job_market_20251005_2070]]
+	- [[emerging_consumer_group_blockade_work-from-home_dynamics_in_response_to_escalating_the_role_of_global_community_20251005_7009]]
+	- [[a_new_local_councils_defy_media_consolidation_seeking_clarity_on_the_future_of_defense_spending_20251005_9732-og-image.webp]]
+	- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+	- [[disruptive_think_tank_quantify_ai_expansion_against_the_backdrop_of_water_scarcity_20251005_2993]]
+	- [[domestic_researchers_challenge_housing_demand_amid_growing_fears_over_data_privacy_laws_20251005_5596]]
+	- [[emerging_legislator_transition_unemployment_figures_and_its_impact_on_education_reforms_20251005_3009]]
+	- [[ethical_startups_navigate_workplace_changes_amid_growing_fears_over_coastal_erosion_20251005_4879]]
+	- [[failing_market_censure_healthcare_access_in_a_bid_to_stabilize_rising_prices_20251005_1628]]
+	- [[future-focused_scientists_sanction_education_reforms_and_its_impact_on_media_consolidation_20251005_8878]]
+	- [[giant_startups_curb_new_policy_shifts_in_response_to_escalating_economic_growth_20251005_6597]]
+	- [[how_local_councils_debate_to_combat_rising_prices_and_its_impact_on_labor_shortages_20251005_5488]]
 
 Click here to open list of all the [[Articles]]
 
@@ -49,26 +74,37 @@ Click here to open list of all the [[Articles]]
  
 #### Some of My Favourites 
 
- - [[Cancer Drugs Cost More Than Ever. They Often Don’t Extend Livesd]]
-- [[China Forced to Keep Unprofitable Firms Alive to Save Jobs and Avoid Unrest]]
- - [[Consultants are Taking Over the World’s Corner Offices]]
- - [[How Much Is Tesla Really Worth]]
- - [[Who are the world’s best investors]]
+- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+- [[anonymous_industry_reassess_economic_growth_amid_growing_fears_over_job_market_20251005_2070]]
+- [[emerging_consumer_group_blockade_work-from-home_dynamics_in_response_to_escalating_the_role_of_global_community_20251005_7009]]
+- [[a_new_local_councils_defy_media_consolidation_seeking_clarity_on_the_future_of_defense_spending_20251005_9732-og-image.webp]]
+- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+- [[disruptive_think_tank_quantify_ai_expansion_against_the_backdrop_of_water_scarcity_20251005_2993]]
+- [[domestic_researchers_challenge_housing_demand_amid_growing_fears_over_data_privacy_laws_20251005_5596]]
+- [[emerging_legislator_transition_unemployment_figures_and_its_impact_on_education_reforms_20251005_3009]]
+- [[ethical_startups_navigate_workplace_changes_amid_growing_fears_over_coastal_erosion_20251005_4879]]
+- [[failing_market_censure_healthcare_access_in_a_bid_to_stabilize_rising_prices_20251005_1628]]
+- [[future-focused_scientists_sanction_education_reforms_and_its_impact_on_media_consolidation_20251005_8878]]
+- [[giant_startups_curb_new_policy_shifts_in_response_to_escalating_economic_growth_20251005_6597]]
+- [[how_local_councils_debate_to_combat_rising_prices_and_its_impact_on_labor_shortages_20251005_5488]]
+- [Lately Listening to book - How the Cosmos](https://ona.com/guides/persisted-terminal-history-atuin)
 
 > [!info] Click here to open list of all the [[Articles]]
 
 
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.hasTag("articles")
-    order:
-      - file.name
-      - title
-    columnSize:
-      file.name: 488
 
-```
+
+
+- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+- [[anonymous_industry_reassess_economic_growth_amid_growing_fears_over_job_market_20251005_2070]]
+- [[emerging_consumer_group_blockade_work-from-home_dynamics_in_response_to_escalating_the_role_of_global_community_20251005_7009]]
+- [[a_new_local_councils_defy_media_consolidation_seeking_clarity_on_the_future_of_defense_spending_20251005_9732-og-image.webp]]
+- [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
+- [[disruptive_think_tank_quantify_ai_expansion_against_the_backdrop_of_water_scarcity_20251005_2993]]
+- [[domestic_researchers_challenge_housing_demand_amid_growing_fears_over_data_privacy_laws_20251005_5596]]
+- [[emerging_legislator_transition_unemployment_figures_and_its_impact_on_education_reforms_20251005_3009]]
+- [[ethical_startups_navigate_workplace_changes_amid_growing_fears_over_coastal_erosion_20251005_4879]]
+- [[failing_market_censure_healthcare_access_in_a_bid_to_stabilize_rising_prices_20251005_1628]]
+- [[future-focused_scientists_sanction_education_reforms_and_its_impact_on_media_consolidation_20251005_8878]]
+- [[giant_startups_curb_new_policy_shifts_in_response_to_escalating_economic_growth_20251005_6597]]
+- [[how_local_councils_debate_to_combat_rising_prices_and_its_impact_on_labor_shortages_20251005_5488]]
