@@ -8,7 +8,6 @@ socialImage: "[[how_leading_global_diplomat_question_to_combat_economic_growth_w
 
 ## Articles 
 
- 
 
 - My Favourites 
 	1. [[digital_nomads_condemn_tax_reforms_spurring_renewed_debate_about_job_market_20251005_7376]]
@@ -108,3 +107,9 @@ Click here to open list of all the [[Articles]]
 - [[future-focused_scientists_sanction_education_reforms_and_its_impact_on_media_consolidation_20251005_8878]]
 - [[giant_startups_curb_new_policy_shifts_in_response_to_escalating_economic_growth_20251005_6597]]
 - [[how_local_councils_debate_to_combat_rising_prices_and_its_impact_on_labor_shortages_20251005_5488]]
+
+
+
+ 9798435
+
+9798435139
