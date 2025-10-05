@@ -2,7 +2,7 @@
 title: Lets see about my notes
 cssclasses:
   - max
-socialImage: "[[how_leading_global_diplomat_question_to_combat_economic_growth_while_tackling_severe_setbacks_in_financial_market_bubbles_20251005_2674-og-image.webp]]"
+
 ---
 
 
