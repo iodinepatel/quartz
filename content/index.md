@@ -1,8 +1,5 @@
 ---
 title: Lets see about my notes
-cssclasses:
-  - max
-
 ---
 
 
